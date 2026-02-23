@@ -36,20 +36,20 @@
 
 ---
 
- 📊 [ Estatísticas da Rede Neural ]
+ 📊  Estatísticas da Rede Neural 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=7&theme=matrix"/>
 
 ---
 
- 🐍 [ Jogo da Cobrinha (Contribuições) ]
+ 🐍  Jogo da Cobrinha (Contribuições) 
 
 ![Animação da Cobrinha](https://github.com/github-contribution-grid-snake/github-contribution-grid-snake/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🟢 [ Disponível para Oportunidades Remotas ]
+ 🟢  Disponível para Oportunidades Remotas 
 *"A melhor forma de prever o futuro é programando-o."*
 
 </div>
