@@ -2,7 +2,7 @@
 
  ⚡  STATUS DO SISTEMA: ATIVO  ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=./identificando_usuario...;Acesso+Concedido!;Olá,+eu+sou+o+Matheus+Valero;Desenvolvedor+Full+Stack;Buscando+Vagas+Home+Office" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=./identificando_usuario...;Acesso+Concedido!;Olá,+eu+sou+o+Matheus+Valero;Desenvolvedor+Full+Stack;Buscando+Vagas+Na+Área+De+TI" alt="Typing SVG" />
 
 ---
 
